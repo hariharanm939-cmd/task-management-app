@@ -26,7 +26,8 @@ A simple and efficient task management application designed to help users organi
 - React.js  
 - JavaScript  
 - HTML5  
-- CSS3  
+- CSS3
+- Android studio
 
 ---
 
