@@ -23,11 +23,12 @@ A simple and efficient task management application designed to help users organi
 
 ## 🛠 Tech Stack
 
-- React.js  
+- Dart
 - JavaScript  
 - HTML5  
 - CSS3
 - Android studio
+- Flutter
 
 ---
 
